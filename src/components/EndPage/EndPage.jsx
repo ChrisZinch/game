@@ -25,7 +25,7 @@ export const EndPage = ({
                 Total score:
               </h4>
               <h2 className="end__score">
-                `{score.title} earned`
+                {score.title} earned
               </h2>
             </>
           )}
