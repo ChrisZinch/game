@@ -14,4 +14,4 @@ The projects was created with:
 
 
 # Without installation
-- Click the link to see [DEMO LINK](https://chriszinch.github.io/millionair/)
+- Click the link to see [DEMO LINK](https://chriszinch.github.io/game/)
