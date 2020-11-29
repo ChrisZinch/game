@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+
+html,
+body,
+h2,
+h4,
+ul,
+p,
+button,
+a {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Inter", sans-serif;
+  font-style: normal;
+  overflow: hidden;
+}
+
+.app {
+  min-height: 100vh;
+}
